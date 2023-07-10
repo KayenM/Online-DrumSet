@@ -20,8 +20,7 @@
   <a href="#about">About</a> •
   <a href="#demo">Demo</a> •
   <a href="#tech-stack">Tech Stack</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#contributing">Contributing</a>
+  <a href="#getting-started">Getting Started</a>
 </p>
 
 <h2 id="about">About</h2>
@@ -40,16 +39,10 @@
   You can access the Online DrumSet [here](https://kayenm.github.io/Online-DrumSet/). Feel the rhythm and let the beats take over!
 </p>
 
-<p align="center">
-  <a href="https://kayenm.github.io/Online-DrumSet/">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/drumset-demo.png" alt="Online DrumSet Demo">
-  </a>
-</p>
-
 <h2 id="tech-stack">Tech Stack</h2>
 
 <p align="center">
-  The Online DrumSet is built with the following technologies:
+  The Virtual DrumSet is built with the following technologies:
 </p>
 
 <p align="center">
@@ -59,11 +52,11 @@
 <h2 id="getting-started">Getting Started</h2>
 
 <p align="center">
-  To start drumming with the Online DrumSet, follow these steps:
+  To start drumming, follow these steps:
 </p>
 
 <ol>
-  <li>Visit the Online DrumSet [here](https://kayenm.github.io/Online-DrumSet/).</li>
+  <li>Visit the web app [here](https://kayenm.github.io/Online-DrumSet/).</li>
   <li>Use your keyboard or mouse to play the virtual drum set.</li>
   <li>Feel the rhythm and let the beats flow through you!</li>
 </ol>
@@ -76,10 +69,6 @@
 
 <p align="center">
   I hope you enjoy the Online DrumSet and have a blast drumming away! 🥁🎶 If you have any questions or need assistance, feel free to reach out.
-</p>
-
-<p align="center">
-  Also, check out my LinkedIn post about my experience developing this project at Scotiabank [here](https://www.linkedin.com/posts/kayen-mehta_scotiastudentday-scotiacampus-scotiastudentday-activity-6906684087390855168-QqGG?utm_source=linkedin_share&utm_medium=member_desktop_web).
 </p>
 
 <p align="center">
