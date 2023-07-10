@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/KayenM/Online-DrumSet/main/images/drumset_img.jpg" alt="Online DrumSet Image">
-  <br>
+
   Virtual DrumSet 🥁
+      <br>
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://kayenm.github.io/Online-DrumSet/">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/drumset-demo.png" alt="Online DrumSet Demo">
+  <img src="https://raw.githubusercontent.com/KayenM/Online-DrumSet/main/images/drumset_image.jpg" alt="Online DrumSet Image">
   </a>
 </p>
 
